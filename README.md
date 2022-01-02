@@ -1,3 +1,4 @@
+# ***ARCHIVED***
 # HTML Interview
 
 In this assignment, we'll work in groups of 2-3 students. This is a great time to meet your fellow classmates!
